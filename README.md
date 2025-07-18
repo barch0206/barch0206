@@ -1,5 +1,5 @@
 ## Hello! I'm Sankalp :)
-I'm a full-stack software engineer who loves building clean, purposeful products — especially those that mix creativity with strong backend design. From AI experiments to fun public APIs, I enjoy solving problems that make people smile or think.
+I'm a full-stack software engineer who loves building clean, purposeful products — especially those that mix creativity with strong backend design. From AI experiments to fun public APIs, my projects will surely make you smile!
 
 ## Reach me at
 Email: sankalph1234@gmail.com
