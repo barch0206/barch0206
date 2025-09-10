@@ -1,5 +1,5 @@
 ## Hello! I'm Sankalp :)
-I'm a backend-focused software engineer who loves building clean, purposeful products — especially those that mix creativity with strong backend design. From fun rest APIs to ai experiments, my projects will surely make you smile!
+I'm a backend-focused software engineer who loves building clean, purposeful products — especially those that mix creativity with strong backend design.
 
 ## Reach me at
 Email: sankalph1234@gmail.com
