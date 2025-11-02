@@ -2,7 +2,7 @@
 I'm a backend-focused software engineer who loves building clean, purposeful products — especially those that mix creativity with strong backend design.
 
 ## Reach me at
-Email: sankalph1234@gmail.com
+Email: sankalph1234@gmail.com <br/>
 LinkedIn: https://www.linkedin.com/in/sankalp-hegde-48895123a
 
 ##  Tech Stack
