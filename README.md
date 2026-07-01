@@ -1,9 +1,11 @@
 ## Hello! I'm Sankalp :)
-I'm a backend-focused software engineer who loves building clean, purposeful products — especially those that mix creativity with strong backend design.
+I'm a backend-focused software developer who loves building clean, purposeful products — especially those that mix creativity with strong backend design. 
+You will find some of my project here.
 
 ## Reach me at
 Email: sankalph1234@gmail.com <br/>
 LinkedIn: https://www.linkedin.com/in/sankalp-hegde-48895123a
+LeetCode: https://leetcode.com/u/barch0206/
 
 ##  Tech Stack
 
