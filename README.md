@@ -3,8 +3,8 @@ I'm a backend-focused software developer who loves building clean, purposeful pr
 You will find some of my pesonal projects here.
 
 ## Reach me at
-Email: sankalph1234@gmail.com <br/>
-LinkedIn: https://www.linkedin.com/in/sankalp-hegde-48895123a
+Email: sankalph1234@gmail.com <br/> 
+LinkedIn: https://www.linkedin.com/in/sankalp-hegde-48895123a  <br/>
 LeetCode: https://leetcode.com/u/barch0206/
 
 ##  Tech Stack
