@@ -1,5 +1,5 @@
 ## Hello! I'm Sankalp :)
-I'm a backend-focused software developer who loves building clean, purposeful products — especially those that mix creativity with strong backend design. 
+Software developer who loves building clean, purposeful products — with strong backend design. 
 You will find some of my pesonal projects here.
 
 ## Reach me at
